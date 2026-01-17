@@ -58,8 +58,11 @@ FA-Phys addresses these challenges by:
 
 ## 📁 Supported Datasets
 - PURE
+![image](https://github.com/jao0130/FA-Phys-Frequency-Attention-PhysNet/blob/main/image/PURE.png)
 - UBFC-rPPG
+![image](https://github.com/jao0130/FA-Phys-Frequency-Attention-PhysNet/blob/main/image/UBFC.png)
 - SUMS
+![image](https://github.com/jao0130/FA-Phys-Frequency-Attention-PhysNet/blob/main/image/SUMS.png)
 
 ---
 
