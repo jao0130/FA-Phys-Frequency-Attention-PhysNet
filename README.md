@@ -4,7 +4,7 @@ FA-Phys is a lightweight deep learning framework for **remote physiological sign
 The model introduces a **Frequency Attention Module** that explicitly focuses on physiologically meaningful heart-rate frequency bands, enabling robust and accurate prediction under motion, illumination, and background variations.
 
 ![image](https://github.com/jao0130/FA-Phys-Frequency-Attention-PhysNet/blob/main/image/image.png)
-
+![image](https://github.com/jao0130/FA-Phys-Frequency-Attention-PhysNet/blob/main/fam_architecture.png)
 ---
 
 ## 🔍 Motivation
