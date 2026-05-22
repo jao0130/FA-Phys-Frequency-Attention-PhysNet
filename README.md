@@ -3,7 +3,7 @@
 FA-Phys is a lightweight deep learning framework for **remote physiological signal estimation (rPPG)** from facial videos.  
 The model introduces a **Frequency Attention Module** that explicitly focuses on physiologically meaningful heart-rate frequency bands, enabling robust and accurate prediction under motion, illumination, and background variations.
 # Workfolws
-![image]([https://github.com/jao0130/FA-Phys-Frequency-Attention-PhysNet/blob/main/image/workflow_architecture.png](https://github.com/jao0130/FA-Phys-Frequency-Attention-PhysNet/blob/main/image/Model_A.png))
+![image](https://github.com/jao0130/FA-Phys-Frequency-Attention-PhysNet/blob/main/image/Model_A.png)
 # Model Architecture
 ![image](https://github.com/jao0130/FA-Phys-Frequency-Attention-PhysNet/blob/main/image/image.png)
 # FAMask Module Architecture
